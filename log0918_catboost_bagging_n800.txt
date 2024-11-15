@@ -1,0 +1,4 @@
+Present regressor is <class 'catboost.core.CatBoostRegressor'>
+params:<bound method BaseEstimator.get_params of BaggingRegressor(base_estimator=<catboost.core.CatBoostRegressor object at 0x000002CEFB9F1EE0>,
+                 n_jobs=1, random_state=1, verbose=1)>
+MSE:0.2541203143729905,CI:0.8860369914626913
